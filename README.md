@@ -23,5 +23,5 @@ This is a custom WordPress app for managing and displaying content. It includes 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/abimael92/wordpress-app.git
    ```
