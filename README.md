@@ -22,6 +22,8 @@ This is a custom WordPress app for managing and displaying content. It includes 
 ### Steps to Install:
 
 1. Clone the repository:
+
    ```bash
+
    git clone https://github.com/abimael92/wordpress-app.git
    ```
